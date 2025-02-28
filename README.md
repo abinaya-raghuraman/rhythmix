@@ -34,4 +34,4 @@ Rhythmix is an Android application that captures live audio and identifies Carna
 This project is licensed under the MIT License.
 
 ---
-Made with ❤️ for Carnatic music lovers! 🎼 
+Made with ❤️ by Abinaya
